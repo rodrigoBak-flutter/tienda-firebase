@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999940895898",
+    "firebase_url": "https://flutter-varios-990bd-default-rtdb.firebaseio.com",
+    "project_id": "flutter-varios-990bd",
+    "storage_bucket": "flutter-varios-990bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999940895898:android:34a9cf8b4ecb9e82965b23",
+        "android_client_info": {
+          "package_name": "com.example.freire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999940895898-ba2isl8nk6frpa0s0dvqgkte4931gc1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freire",
+            "certificate_hash": "8eb9a2afff06470fee69b904f369e97085d4cf87"
+          }
+        },
+        {
+          "client_id": "999940895898-mvbgojn5aj5sc9ic6356p6mk7mqmar91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4UYAGWs2VbxPeDWMuutfz1nuO1ispG6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999940895898-mvbgojn5aj5sc9ic6356p6mk7mqmar91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
